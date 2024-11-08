@@ -16,7 +16,7 @@ function Hero() {
                 {/*right*/}
                 <div className="hero-right" >
                     <h1 className="title">
-                        I'm Zennerha Rauf 
+                        I m Zennerha Rauf 
                         Front-end Developer
                     </h1>
                     <p className="description">

@@ -6,7 +6,7 @@ function Contact() {
         <div id="contact" className="contact-container">
             <h2 className="contact-title">Contact Me</h2>
             <p className="contact-description">
-                I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+                I m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
             </p>
             <form className="contact-form">
                 <input type="text" placeholder="Name" className="contact-input" required />
