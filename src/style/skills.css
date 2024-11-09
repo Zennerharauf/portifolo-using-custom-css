@@ -1,5 +1,8 @@
 /* skills.css */
-
+#skills{
+    padding: 100px 20px;
+    position: relative;
+}
 .skills-container {
     width: 100%;
     padding: 2rem;

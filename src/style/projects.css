@@ -1,5 +1,8 @@
 /* projects.css */
-
+#projects{
+    padding: 100px 20px;
+    position: relative;
+}
 .projects-container {
     width: 100%;
     padding: 2rem;

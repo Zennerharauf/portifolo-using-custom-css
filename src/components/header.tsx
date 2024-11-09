@@ -14,12 +14,9 @@ function Header (){
             <div className="header-right-div">
                 <ul className="header-links">
                     <li><Link className="nav-link" href={"#home"}>HOME</Link></li>
+                    <li><Link className="nav-link"  href={"#projects"}>PROJECT</Link></li>
+                    <li><Link className="nav-link"  href={"#skills"}>SKILLS</Link></li>
                     <li><Link className="nav-link" href={"#about"}>ABOUT</Link></li>
-                    <li>
-                        <Link className="nav-link"  href={"#skills"}>SKILLS</Link>
-                    </li>
-                    <li>
-                        <Link className="nav-link"  href={"#projects"}>PROJECT</Link></li>
                     <li><Link className="nav-link" href={"#contact"}>CONTACT-ME</Link></li>
                 </ul>
             </div>

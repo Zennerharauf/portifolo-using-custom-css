@@ -1,5 +1,8 @@
 /* footer.css */
-
+#footer{
+    padding: 100px 20px;
+    position: relative;
+}
 .footer {
     padding: 2rem;
     background-color: #333;
